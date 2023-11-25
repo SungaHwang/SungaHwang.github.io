@@ -1,5 +1,5 @@
 remote_theme: samarsault/plainwhite-jekyll
-
+# bundle exec jekyll serve
 title: Sunga Hwang
 author: GitHub User
 email: sungahwang@yonsei.ac.kr
