@@ -12,7 +12,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Hwang Sunga
-  tagline: Yonsei University, M.S. in Business Big Data Analysis
+  tagline: Yonsei University, M.S. in Business BigData Analysis
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar

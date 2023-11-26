@@ -441,7 +441,7 @@ main .about img { max-width: 150px; }
 table th, table td { padding: 8px 13px; border: 1px solid #dfe2e5; }
 table th { background-color: #eee; font-family: Raleway; }
 
-.tag { border-radius: 5px; padding: 5px; margin: 2px; font-size: 0.75rem; color: #fff; background-color: #426cb4; opacity: 0.6; cursor: pointer; line-height: 2; transition: 0.5s; }
+.tag { border-radius: 5px; padding: 5px; margin: 2px; font-size: 0.75rem; color: #fff; background-color: #426cb4; opacity: 0.6; cursor: pointer; line-height: 3; transition: 0.5s; }
 
 .tag:hover { opacity: 1; }
 
