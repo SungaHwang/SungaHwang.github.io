@@ -412,15 +412,15 @@ main .about img { max-width: 150px; }
 .post-categories li { font-size: 14px; float: left; background-color: #e3e3e3; padding: 5px 20px; border-radius: 2px; margin-right: 10px; }
 @media screen and (max-width: 768px) { .post-categories li { margin-top: 5px; } }
 
-.post-date { margin-right: 10px; color: #555; min-width: 150px; }
+.post-date { font-size: 10px; margin-right: 10px; color: #555; min-width: 150px; }
 
-.post-meta { display: flex; justify-content: space-between; align-items: center; min-height: 30px; }
+.post-meta { display: flex; justify-content: space-between; align-items: center; min-height: 20px; }
 @media screen and (max-width: 768px) { .post-meta { flex-direction: column; align-items: baseline; }
   .post-meta .post-date { margin: 10px 0; } }
 
 .post-link { text-decoration: none; }
 
-.post-title { line-height: 1.2em; font-size: 25px; margin-bottom: 10px; }
+.post-title { font-size: 20px; margin-bottom: 10px; }
 
 .posts, .post-container { list-style-type: none; margin: 45px 80px; }
 @media screen and (max-width: 480px) { .posts, .post-container { margin-left: 20px; margin-right: 20px; } }
@@ -447,7 +447,7 @@ table th { background-color: #eee; font-family: Raleway; }
 
 .tag.selected { opacity: 1; }
 
-.tag-container { margin-top: 20px; }
+.tag-container { margin-top: 10px; }
 
 .no-underline { text-decoration: none; }
 
